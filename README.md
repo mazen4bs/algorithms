@@ -9,6 +9,15 @@ Is it possible for a chess knight to visit all the cells of an 8 × 8 chessboard
 move away from the starting cell? (Such a tour is called closed or re-entrant. Note that a cell is considered visited only
 when the knight lands on it, not just passes over it on its move.)
 If it is possible design a greedy algorithm to find the minimum number of moves the chess knight needs
+# Task 3
+There is a row of n security switches protecting a military installation entrance. The switches can be manipulated as
+follows:
+(i) The rightmost switch may be turned on or off at will.
+(ii) Any other switch may be turned on or off only if the switch to its immediate right is on and all the other
+switches to its right, if any, are off.
+(iii) Only one switch may be toggled at a time.
+Design a Dynamic Programing algorithm to turn off all the switches, which are initially all on, in the minimum number of
+moves. (Toggling one switch is considered one move.) Also find the minimum number of moves. 
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
