@@ -18,6 +18,13 @@ switches to its right, if any, are off.
 (iii) Only one switch may be toggled at a time.
 Design a Dynamic Programing algorithm to turn off all the switches, which are initially all on, in the minimum number of
 moves. (Toggling one switch is considered one move.) Also find the minimum number of moves. 
+# Task 4
+There are eight disks of different sizes and four pegs. Initially, all the disks are on the first peg in order of size, the largest
+on the bottom and the smallest on the top.
+Use divide and conquer method to transfer all the disks to another peg by a sequence of moves. Only one disk can be
+moved at a time, and it is forbidden to place a larger disk on top of a smaller one.
+Does the Dynamic Programing algorithm can solve the puzzle in 33 moves? If not then design an algorithm that
+solves the puzzle in 33 moves.
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
