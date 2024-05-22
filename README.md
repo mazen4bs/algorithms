@@ -25,6 +25,15 @@ Use divide and conquer method to transfer all the disks to another peg by a sequ
 moved at a time, and it is forbidden to place a larger disk on top of a smaller one.
 Does the Dynamic Programing algorithm can solve the puzzle in 33 moves? If not then design an algorithm that
 solves the puzzle in 33 moves.
+# Task 5
+There are n coins placed in a row. The goal is to form n/2 pairs of them by a sequence of moves. On the first move a
+single coin has to jump over one coin adjacent to it, on the second move a single coin has to jump over two adjacent
+coins, on the third move a single coin has to jump over three adjacent coins, and so on, until after n/2 moves n/2 coin
+pairs are formed. (On each move, a coin can jump right or left but it has to land on a single coin. Jumping over a coin
+pair counts as jumping over two coins. Any empty space between adjacent coins is ignored.) Determine all the values
+of n for which the problem has a solution and design an algorithm that solves it in the minimum number of moves for
+those n’s.
+Design greedy algorithm to find the minimum number of moves
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
