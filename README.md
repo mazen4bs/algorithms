@@ -42,7 +42,8 @@ Design an iterative improvement algorithm to
 exchange the knights to get the position shown on the
 right of the figure in the minimum number of knights
 moves, not allowing more than one knight on a square
-at any time.
+at any time. ![Screenshot 2024-05-24 042736](https://github.com/mazen4bs/algorithms/assets/128807230/cf65c5d7-893c-4c0f-860d-020e1fed5103)
+
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
