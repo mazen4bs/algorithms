@@ -34,6 +34,15 @@ pair counts as jumping over two coins. Any empty space between adjacent coins is
 of n for which the problem has a solution and design an algorithm that solves it in the minimum number of moves for
 those n’s.
 Design greedy algorithm to find the minimum number of moves
+# Task 6
+There are six knights on a 3 × 4 chessboard: the three
+white knights are at the bottom row, and the three black
+knights are at the top row.
+Design an iterative improvement algorithm to
+exchange the knights to get the position shown on the
+right of the figure in the minimum number of knights
+moves, not allowing more than one knight on a square
+at any time.
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
