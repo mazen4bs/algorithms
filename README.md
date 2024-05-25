@@ -42,10 +42,16 @@ Design an iterative improvement algorithm to
 exchange the knights to get the position shown on the
 right of the figure in the minimum number of knights
 moves, not allowing more than one knight on a square
-at any time. ![Screenshot 2024-05-24 042736](https://github.com/mazen4bs/algorithms/assets/128807230/cf65c5d7-893c-4c0f-860d-020e1fed5103)
+at any time.
+
+![Screenshot 2024-05-24 042736](https://github.com/mazen4bs/algorithms/assets/128807230/cf65c5d7-893c-4c0f-860d-020e1fed5103)
 
 # Task 7
 A computer game has a shooter and a moving target. The shooter can hit any of n > 1 hiding spot located along a
 straight line in which the target can hide. The shooter can never see the target; all he knows is that the target moves
 to an adjacent hiding spot between every two consecutive shots. Design a Dynamic Programing algorithm that
 guarantees hitting the target.
+# Task 8
+If you have 50 boxes that contains 50 pieces of metal all of the same known weight. one of these boxes contains fake
+metal pieces that weigh 1 kilogram less than the pieces in the rest of the boxes. You can use a digital scale only once
+to find this fake box. Design a brute force algorithm to solve this problem
